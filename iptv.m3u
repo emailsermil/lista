@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Moana 2
+#EXTINF:-1 tvg-name="Moana 2" group-title="Animação", Moana 2
 http://cda11.com:80/movie/wpa96539/emg69158/297328.mp4
-#EXTINF:-1,Premonição 6: Laços de Sangue
+
+#EXTINF:-1 tvg-name="Premonição 6: Laços de Sangue" group-title="Terror", Premonição 6: Laços de Sangue
 http://cda11.com:80/movie/wpa96539/emg69158/312287.mp4
-#EXTINF:-1,Um Conto Chinês
+
+#EXTINF:-1 tvg-name="Um Conto Chinês" group-title="Comédia", Um Conto Chinês
 http://cda11.com:80/movie/wpa96539/emg69158/311910.mp4
